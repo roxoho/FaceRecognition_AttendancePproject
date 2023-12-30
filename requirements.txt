@@ -1,0 +1,7 @@
+#make sure to install C++ desktop development from Visual Studio Installer
+
+opencv-python
+cmake
+dlib
+face-recognition
+numpy
